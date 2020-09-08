@@ -66,7 +66,7 @@ function SignUpForm() {
             return true;
     }
 
-    // Making a POST request using FETCH API with JSON Payload
+    // Making a POST request using FETCH API with JSON Payload when user submits the form
 
     const onSubmit = (input) => {
         // console.log(input);
